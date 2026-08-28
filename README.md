@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-A continuously updated collection of my LeetCode solutions, organized for quick review and interview preparation.
+A continuously updated collection of LeetCode solutions, organized for quick review and interview preparation.
 
 ## Structure
 
@@ -31,11 +31,20 @@ Each solution should include:
 2. Approach
 3. Time complexity
 4. Space complexity
-5. Clean implementation
+5. Clean, runnable implementation
 
 ## Contribution Workflow
 
-LeetCode solutions can be synchronized automatically using a supported sync tool such as LeetSync. Only actual solved problems should be added; no synthetic commits are intended.
+Solutions may be synchronized from LeetCode with a supported sync tool such as LeetSync. Before accepting a synchronized change, verify that it corresponds to an actual accepted submission. Avoid placeholder, duplicate, or synthetic commits that do not represent real work.
+
+## Review Checklist
+
+Before adding a solution, check that:
+
+- The implementation matches the stated approach.
+- Complexity claims are accurate.
+- The code is readable and runnable.
+- The problem link and difficulty are correct.
 
 ## Profile
 
