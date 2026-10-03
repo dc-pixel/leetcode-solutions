@@ -35,7 +35,7 @@ Each solution should include:
 
 ## Contribution Workflow
 
-Solutions may be synchronized from LeetCode with a supported sync tool such as LeetSync. Before accepting a synchronized change, verify that it corresponds to an actual accepted submission. Avoid placeholder, duplicate, or synthetic commits that do not represent real work.
+Add solutions for problems you have actually solved. Prefer small, focused commits that document a real solution, correction, test, or explanation. Avoid placeholder, duplicate, or synthetic commits that do not represent actual work.
 
 ## Review Checklist
 
@@ -45,6 +45,7 @@ Before adding a solution, check that:
 - Complexity claims are accurate.
 - The code is readable and runnable.
 - The problem link and difficulty are correct.
+- The solution is based on a real accepted or validated attempt.
 
 ## Profile
 
